@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "wandoo-grantfox",
+    "wandoo-implementation"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "wandoo-grantfox": "main",
+    "wandoo-implementation": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "wandoo-grantfox",
+    "wandoo-implementation"
+  ]
+}
